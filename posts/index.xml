@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Kyvernomageires Blog</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://kyvernomageires.github.io/posts/</link>
     <description>Recent content in Posts on Kyvernomageires Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 12 Apr 2025 20:06:48 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kyvernomageires.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NTLM Relay Attacks</title>
-      <link>http://localhost:1313/posts/ntlm-relay-attacks/</link>
+      <link>https://kyvernomageires.github.io/posts/ntlm-relay-attacks/</link>
       <pubDate>Sat, 12 Apr 2025 20:06:48 +0300</pubDate>
-      <guid>http://localhost:1313/posts/ntlm-relay-attacks/</guid>
+      <guid>https://kyvernomageires.github.io/posts/ntlm-relay-attacks/</guid>
       <description>&lt;p&gt;hi&lt;/p&gt;</description>
     </item>
   </channel>
